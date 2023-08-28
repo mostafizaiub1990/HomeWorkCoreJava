@@ -17,8 +17,10 @@ public class AboutMe {
 	}
 
 	public  void aboutMe() {
-		System.out.println("I am aboutMe method");
-		System.out.println("my age is "+myAge);
+		System.out.println("My name is " + myName + "\nMy age is " + myAge + "\nMy Apartment Rent is "
+				+ myApartmentRent + "\nMy Yarly Salary is " + myYearlySalary + "\nMy Bank Balance is "
+					+ myBankBalance + "\nMy Height is " + myHeight + "\nMy Gender is " + myGender
+					+ "\nMy Grade is " + myGrade + "\nMy US Citizenship News Status is " + usCitizen);
 	}
 
 
